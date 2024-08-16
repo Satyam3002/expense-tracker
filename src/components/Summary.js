@@ -3,7 +3,7 @@ import React from 'react';
 
 function Summary({ summary }) {
   return (
-    <div className="bg-white p-6 py-36 rounded-lg shadow-lg max-w-md mx-auto">
+    <div className="bg-white p-6 rounded-lg shadow-lg max-w-md mx-auto">
       <h2 className="text-2xl font-bold mb-4 text-gray-800">Financial Summary</h2>
       <div className="grid grid-cols-1 gap-4">
         <div className="bg-green-50 p-4 rounded-lg border border-green-200">
